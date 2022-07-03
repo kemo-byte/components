@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="welcome">
     <x-flash type="danger">
         You are Logged out
     </x-flash>
