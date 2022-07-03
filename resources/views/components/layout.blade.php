@@ -7,6 +7,6 @@
     <title>@yield('title','default')</title>
 </head>
 <body>
-    @yield('content')
+    {{ $slot}}
 </body>
 </html>

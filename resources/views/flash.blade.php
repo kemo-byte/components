@@ -1,7 +1,3 @@
-@extends('layout')
-
-@section('title', 'Flash')
-
-@section('content')
+<x-layout>
     Hello World
-@endsection
+</x-layout>
